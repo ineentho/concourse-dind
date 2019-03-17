@@ -1,0 +1,3 @@
+[submodule "docker-image-resource"]
+	path = docker-image-resource
+	url = git@github.com:concourse/docker-image-resource.git
