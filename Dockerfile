@@ -1,4 +1,4 @@
-FROM alpine:3.9.4@sha256:182aba30aabc7dc99ccbafbd8f4d0e1141f6f2763c38f4dedacb33a45a29f2c2
+FROM alpine:3.9.4@sha256:af81cd1fdbc8216e7a1d4e116dd6a2889315d3793c435ba8bb2344a39bc3c46c
 
 RUN apk --no-cache add bash docker
 
